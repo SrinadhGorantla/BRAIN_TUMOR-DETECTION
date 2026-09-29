@@ -33,7 +33,7 @@ st.warning(
 # MODEL PATH
 # --------------------------------------------------
 
-MODEL_PATH = "brain_tumor_vgg16.h5"
+MODEL_PATH = "brain_tumor_vgg16_fp16_gzip.h5"
 
 # --------------------------------------------------
 # LOAD MODEL
